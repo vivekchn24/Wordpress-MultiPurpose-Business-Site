@@ -13,10 +13,11 @@ This is a complete demo website designed using WordPress for a multi-purpose bus
 - Used royalty-free images and icons
 
 ## **📸 Screenshots :-**
-- Pages Of Phlox Website
+- Pages Of Phlox-MultiPurpose-Business-Site Website
 
 ## **📁 Files Included :-**
 - Screenshot of final design
+- Media images used in design
 
 ## **⚙️ Environment :-**
 - WordPress localhost using WAMPP
