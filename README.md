@@ -7,7 +7,7 @@ This is a complete demo website designed using WordPress for a multi-purpose bus
 - Elementor Page Builder
 - Custom Widgets, Header/Footer customization
 
-## 🌍 Features:
+## **🌍 Features :-**
 - Fully functional homepage with sections like Home,Contact,Pricing-Plan,Our-Clients,Grid 
 - Desktop responsive layout
 - Used royalty-free images and icons
