@@ -23,7 +23,7 @@ This is a complete demo website designed using WordPress for a multi-purpose bus
 - Tested on desktop browsers
 
 ## **📌 Note :-**
-This project was developed locally using WAMPP for WordPress. Files are for reference and demonstration only.
+- This project was developed locally using WAMPP for WordPress. Files are for reference and demonstration only.
 
 ## **📎 This project does not include business insights. It is intended for practice only.**
 
