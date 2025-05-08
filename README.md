@@ -13,7 +13,7 @@ This is a complete demo website designed using WordPress for a multi-purpose bus
 - Used royalty-free images and icons
 
 ## **📸 Screenshots :-**
--Pages Of Phlox Website
+- Pages Of Phlox Website
 
 ## **📁 Files Included :-**
 - Screenshot of final design
